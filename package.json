@@ -2,11 +2,11 @@
   "name": "promptfiles",
   "displayName": "PromptFiles",
   "description": "Gather multiple files' paths and contents with a single click.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "./images/icon.png",
   "publisher": "dakiesse",
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.96.0"
   },
   "repository": {
     "type": "git",
@@ -45,7 +45,7 @@
     "test": "vscode-test"
   },
   "devDependencies": {
-    "@types/vscode": "^1.99.0",
+    "@types/vscode": "^1.96.0",
     "@types/mocha": "^10.0.10",
     "@types/node": "20.x",
     "@typescript-eslint/eslint-plugin": "^8.28.0",
