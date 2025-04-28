@@ -2,10 +2,15 @@
   "name": "promptfiles",
   "displayName": "PromptFiles",
   "description": "Gather multiple files' paths and contents with a single click.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "./images/icon.png",
+  "publisher": "dakiesse",
   "engines": {
     "vscode": "^1.99.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dakiesse/promptfiles.git"
   },
   "categories": [
     "Other"
